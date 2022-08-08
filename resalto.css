@@ -1,0 +1,37 @@
+body
+{
+    
+        background:url(vandera.webp );
+        background-size: cover;
+        
+        place-content: center center;
+    
+     
+}
+
+.container {
+    width: 70%;
+
+}
+
+.container path{
+    fill: darkgreen;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+.container :hover{
+    fill: royalblue;
+    fill: rgb(255, 0, 0);
+    fill: rgb(11, 27, 75);
+    fill: rgb(48, 126, 147);
+    fill: rgb(139, 140, 140);
+    fill: rgb(207, 225, 51);
+}
+.audio{
+    padding-top: 10%;
+    width: 80%;
+    margin: auto;
+    display: block;
+
+}
